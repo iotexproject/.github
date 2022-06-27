@@ -5,7 +5,7 @@ IoTeX Network is the lightning-fast, ultra-secure, and highly scalable blockchai
 
 ![MachineFi](https://user-images.githubusercontent.com/38968374/175881372-64102dad-376d-4ba6-8b8d-fb4819228d6c.png) 
 
-IoTeX was founded as an open-source platform in 2017 with a vision for the Internet of Trusted Things, a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. We are on a mission to ensure everyday people and businesses can own and control their devices, as well as the data/value they generate. By connecting the physical and digital worlds, IoTeX will democratize access to machine-backed DApps, assets, and services to deliver value to users and fuel the new machine economy.
+[IoTeX](https://iotex.io/) was founded as an open-source platform in 2017 with a vision for the Internet of Trusted Things, a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. We are on a mission to ensure everyday people and businesses can own and control their devices, as well as the data/value they generate. By connecting the physical and digital worlds, IoTeX will democratize access to machine-backed DApps, assets, and services to deliver value to users and fuel the new machine economy.
 
 ## What IoTeX Can Help You Achieve
 - Create Next Generation Dapps to Change the World.
