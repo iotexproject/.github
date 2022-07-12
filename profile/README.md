@@ -14,7 +14,12 @@ IoTeX Network is the lightning-fast, ultra-secure, and highly scalable blockchai
 
 [![Group (3)](https://user-images.githubusercontent.com/38968374/175887094-6bbdb877-f5e8-46ed-9b6c-1cd69c179d06.png)](https://docs.iotex.io/)
 
+
+<details>
+<summary>Read More</summary>
+
 ## You Can Build Yours
+
 With IoTeX, Anyone Can Earn Digital Assets Based on Their Real World Data and Actions.
 
 Join a thriving ecosystem of ambitious developers, revolutionary Dapps, and knowledgeable and driven community members.
@@ -49,3 +54,4 @@ IoTeX houses an ever-growing ecosystem of privacy-protecting smart devices, user
 
 ## Join our [Developer Community](https://discord.com/invite/q5eYde2CU7) on Discord
 [![Component 71](https://user-images.githubusercontent.com/38968374/175885960-968da73a-7a5c-4628-8c82-d55f87ab1603.png)](https://discord.com/invite/q5eYde2CU7)
+</details>
