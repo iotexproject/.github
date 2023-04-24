@@ -21,8 +21,6 @@ The [IoTeX](https://iotex.io/) Network is a lightning-fast, ultra-secure, and hi
 </a>
 
 
-
-
 ## W3bstream
 
 [W3bstream](https://w3bstream.com/), IoTeX’s Layer-2 infrastructure, is the go-to solution for powering the DePIN ecosystem and bridging the gap between the real world and the blockchain. Specifically designed to connect smart devices to smart contracts, W3bstream offers a seamless and robust framework for integrating and verifying data from a myriad of IoT devices. This innovative off-chain compute infrastructure lays the foundation for creating powerful, data-driven decentralized applications (dApps) that unlock the full potential of IoT, driving innovation and fostering synergies between the physical and digital realms.
