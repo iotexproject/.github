@@ -1,11 +1,9 @@
 # Welcome to IoTeX Network!
-## _- Where Devices Are Production Ready._
+## _- Connecting the Real World to Web3_
 
-IoTeX Network is the lightning-fast, ultra-secure, and highly scalable blockchain platform that connects real world data to on-chain Dapps for the very first time.
+![Github and Doc Banner](https://user-images.githubusercontent.com/38968374/234123113-83cfc85e-5683-4a3f-8a8e-f722dade3421.png)
 
-![MachineFi](https://user-images.githubusercontent.com/38968374/175881372-64102dad-376d-4ba6-8b8d-fb4819228d6c.png) 
-
-[IoTeX](https://iotex.io/) was founded as an open-source platform in 2017 with a vision for the Internet of Trusted Things, a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. We are on a mission to ensure everyday people and businesses can own and control their devices, as well as the data/value they generate. By connecting the physical and digital worlds, IoTeX will democratize access to machine-backed DApps, assets, and services to deliver value to users and fuel the new machine economy.
+[IoTeX](https://iotex.io/) is a modular Web3 infrastructure platform connecting smart devices and real-world data to blockchains. It empowers developers to integrate Web3 into everyday life through innovations in connected smart vehicles, city mapping, green energy initiatives, super-charged fitness platforms, environmental data tracking, proof-of-presence applications, proof of humanity, and more. With the launch of W3bstream, the world's first off-chain compute framework for smart devices and real-world data, IoTeX has become the leading Decentralized Physical Infrastructure Network (DePIN) technology provider, enabling vertical innovations for machines, humans, businesses, and dApps to interact with trust and privacy. Backed by a global team of 60+ research scientists and engineers, IoTeX combines its L1, EVM-compatible blockchain, off-chain compute, and open hardware to connect billions of smart devices, machines and sensors and dApps across the physical and digital world.
 
 ## What IoTeX Can Help You Achieve
 - Create Next Generation Dapps to Change the World.
@@ -27,9 +25,6 @@ Join a thriving ecosystem of ambitious developers, revolutionary Dapps, and know
 - Cross-chain. [Build a decentralized bridge >>](https://iotube.org/)
 - Roll-DPoS. [Become a delegate >>](https://community.iotex.io/t/official-iotex-delegates-thread/1263)
 - Robust API. [Integrate with IoTeX >>](https://docs.iotex.io/more-resources/exchange-integration/general-guide)
-
-<img width="870" alt="Community" src="https://user-images.githubusercontent.com/38968374/175883259-f740a2df-0dd7-4b00-b139-7c69372ec7e7.png">
-
 
 ## All You Need for Your Next Decentralized Application
 IoTeX makes blockchain development simple and seamless: Moving a Dapp from Ethereum or other platforms to IoTeX could not be easier. More tools, more flexibility, and a faster network.
