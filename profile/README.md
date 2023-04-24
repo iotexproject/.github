@@ -3,7 +3,9 @@
 ![Github and Doc Banner](https://user-images.githubusercontent.com/77351244/232565488-9af7a2b3-9f07-4d7c-a4e3-137700dae942.png)
 
 ## Intro
-[IoTeX](https://iotex.io/) was founded as decentralized, open-source platform in 2017 to power a new set of applications based on real world data. By connecting the physical and the digital worlds, IoTeX aims to deliver the foundational layer for DePIN (decentralized physical infrastructure networks) applications to flourish and revolutionaize web3. 
+[IoTeX](https://iotex.io/) IoTeX is a modular Web3 infrastructure platform connecting smart devices and real-world data to blockchains. It empowers developers to integrate Web3 into everyday life through innovations in connected smart vehicles, city mapping, green energy initiatives, super-charged fitness platforms, environmental data tracking, proof-of-presence applications, proof of humanity, and more. With the launch of [W3bstream](https://w3bstream.com/), the world's first off-chain compute framework for smart devices and real-world data, IoTeX has become the leading Decentralized Physical Infrastructure Network (DePIN) technology provider, enabling vertical innovations for machines, humans, businesses, and dApps to interact with trust and privacy. Backed by a global team of 60+ research scientists and engineers, IoTeX combines its L1, EVM-compatible blockchain, off-chain compute, and open hardware to connect billions of smart devices, machines and sensors and dApps across the physical and digital world.
+
+By connecting the physical and the digital worlds, IoTeX aims to deliver the foundational layer for DePIN (decentralized physical infrastructure networks) applications to flourish and revolutionaize web3. 
 Feel free to browse through or head over to the [Developer Portal](https://developers.iotex.io/) and start building DePIN applications now: 
 
 <a href="https://developers.iotex.io/" target="_blank">
