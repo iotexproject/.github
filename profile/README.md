@@ -1,52 +1,40 @@
 # Welcome to IoTeX Network!
-## _- Connecting the Real World to Web3_
 
-![Github and Doc Banner](https://user-images.githubusercontent.com/38968374/234123113-83cfc85e-5683-4a3f-8a8e-f722dade3421.png)
+![Github and Doc Banner](https://user-images.githubusercontent.com/77351244/232565488-9af7a2b3-9f07-4d7c-a4e3-137700dae942.png)
 
-[IoTeX](https://iotex.io/) is a modular Web3 infrastructure platform connecting smart devices and real-world data to blockchains. It empowers developers to integrate Web3 into everyday life through innovations in connected smart vehicles, city mapping, green energy initiatives, super-charged fitness platforms, environmental data tracking, proof-of-presence applications, proof of humanity, and more. With the launch of W3bstream, the world's first off-chain compute framework for smart devices and real-world data, IoTeX has become the leading Decentralized Physical Infrastructure Network (DePIN) technology provider, enabling vertical innovations for machines, humans, businesses, and dApps to interact with trust and privacy. Backed by a global team of 60+ research scientists and engineers, IoTeX combines its L1, EVM-compatible blockchain, off-chain compute, and open hardware to connect billions of smart devices, machines and sensors and dApps across the physical and digital world.
+## Intro
+[IoTeX](https://iotex.io/) was founded as decentralized, open-source platform in 2017 to power a new set of applications based on real world data. By connecting the physical and the digital worlds, IoTeX aims to deliver the foundational layer for DePIN (decentralized physical infrastructure networks) applications to flourish and revolutionaize web3. 
+Feel free to browse through or head over to the [Developer Portal](https://developers.iotex.io/) and start building DePIN applications now: 
 
-## What IoTeX Can Help You Achieve
-- Create Next Generation Dapps to Change the World.
-- Tokenize Real-World Objects, Facts, and Events.
-- Push Trusted IoT Data to Smart Contracts.
-
-[![Group (3)](https://user-images.githubusercontent.com/38968374/175887094-6bbdb877-f5e8-46ed-9b6c-1cd69c179d06.png)](https://docs.iotex.io/)
-
+<a href="https://developers.iotex.io/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/77351244/232565684-afa347f5-bdd9-42e5-8a86-eb9cddac8856.png" alt="build-now" width="100" height="auto">
+</a>
 
 <details>
-<summary>Read More</summary>
+  <summary>Learn more about the IoTeX suite</summary>
 
-## You Can Build Yours
+## The IoTeX Chain 
+The [IoTeX](https://iotex.io/) Network is a lightning-fast, ultra-secure, and highly scalable blockchain platform designed with IoT in mind. Fully Ethereum compatible, IoTeX empowers the creation of decentralized applications that harness the power of IoT devices and data, while seamlessly integrating with Ethereum compatible ecosystems. By providing a robust, secure, and efficient infrastructure, IoTeX is enabling innovative solutions and driving the adoption of blockchain technology across various industries.
 
-With IoTeX, Anyone Can Earn Digital Assets Based on Their Real World Data and Actions.
+<a href="https://docs.iotex.io/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/77351244/232568841-46276902-deb4-4346-bc2c-45b700328b13.png" alt="IoTeX Documentation" width="100" height="auto">
+</a>
 
-Join a thriving ecosystem of ambitious developers, revolutionary Dapps, and knowledgeable and driven community members.
-- EVM-Compatible. [Launch your Dapp/token >>](https://docs.iotex.io/dapp-development/smart-contracts/introduction)
-- Cross-chain. [Build a decentralized bridge >>](https://iotube.org/)
-- Roll-DPoS. [Become a delegate >>](https://community.iotex.io/t/official-iotex-delegates-thread/1263)
-- Robust API. [Integrate with IoTeX >>](https://docs.iotex.io/more-resources/exchange-integration/general-guide)
 
-## All You Need for Your Next Decentralized Application
-IoTeX makes blockchain development simple and seamless: Moving a Dapp from Ethereum or other platforms to IoTeX could not be easier. More tools, more flexibility, and a faster network.
-- Solidity Support
-- Web3js Compatible
-- SDK, Go, Java, Python, etc.
+## W3bstream
 
-[![Group (4)](https://user-images.githubusercontent.com/38968374/175887913-894599e7-dcb5-4f54-b221-e4ee11d97b88.png)](https://community.iotex.io/t/about-the-halo-grants-program/3821)
+[W3bstream](https://w3bstream.com/), IoTeX’s Layer-2 infrastructure, is the go-to solution for powering the DePIN ecosystem and bridging the gap between the real world and the blockchain. Specifically designed to connect smart devices to smart contracts, W3bstream offers a seamless and robust framework for integrating and verifying data from a myriad of IoT devices. This innovative off-chain compute infrastructure lays the foundation for creating powerful, data-driven decentralized applications (dApps) that unlock the full potential of IoT, driving innovation and fostering synergies between the physical and digital realms.
 
-## A Launchpad for Next-Gen Decentralized Projects
-IoTeX houses an ever-growing ecosystem of privacy-protecting smart devices, user-owned datasets and models, cross-chain bridges and exchanges, and far-reaching Dapps. Join the global community of developers launching the next generation of decentralized projects on IoTeX.
-[Explore our ecosystem of DApps, tokens, and devices >>](https://ecosystem.iotex.io/)
+<a href="https://docs.w3bstream.com/introduction/readme" target="_blank">
+    <img src="https://user-images.githubusercontent.com/77351244/232568413-f7f4d7a5-adc0-4203-8b4a-a4352585e142.png" alt="WS Documentation" width="100" height="auto">
+</a>
 
-## Develop on the World’s Most Technologically Advanced Blockchain Platform 
-- [Launch a Dapp](https://docs.iotex.io/get-started/iotex-dapp-starter): Port over an existing Solidity-based Dapp or write your own with our developer-friendly IDE.
-- [Launch a Token](https://docs.iotex.io/smart-contracts/introduction): Mint fungible tokens and NFTs with the IoTeX XRC20 + XRC721 standards.
-- [Run a Node](https://community.iotex.io/t/official-iotex-delegates-thread/1263): Port over an existing Solidity-based Dapp or write own with our developer-friendly IDE.
-- [Integrate IoT Devices](https://docs.iotex.io/): Harness the power of real world data in your Dapps with “Powered by IoTeX” devices.
-- [Go Cross-Chain](https://iotube.org/): Convert crypto-assets two-way between IoTeX, Ethereum, BSC, and more.
+## Our Vision
+This Vision Paper presents a bold and transformative outlook on the future of the machine economy, emphasizing the potential of blockchain and Web3 technology to empower users and reshape our world. As machines rapidly proliferate, generating immense economic value, it is crucial to shift the balance of control away from centralized corporations and towards individuals. IoTeX aims to bridge the real world and the Metaverse, providing self-sovereignty to machines and enabling users to monetize their unique services and intelligence.
 
-<img width="1309" alt="Screen Shot 2022-06-27 at 1 03 17 AM" src="https://user-images.githubusercontent.com/38968374/175890622-158da88f-88db-4e27-b7fc-9e952f7f10f6.png">
+<a href="https://cdn.iotex.io/machinefi/IoTeX%202.0.pdf" target="_blank">
+    <img src="https://user-images.githubusercontent.com/77351244/232571346-f9d97fb6-aede-40c9-9c57-e6b2370b6541.png" alt="WS Documentation" width="100" height="auto">
+</a>
+    
 
-## Join our [Developer Community](https://discord.com/invite/q5eYde2CU7) on Discord
-[![Component 71](https://user-images.githubusercontent.com/38968374/175885960-968da73a-7a5c-4628-8c82-d55f87ab1603.png)](https://discord.com/invite/q5eYde2CU7)
 </details>
