@@ -1,8 +1,7 @@
 # Welcome to the IoTeX Project
 ![IoTeX Github Banner](https://github.com/user-attachments/assets/6f8dbc8f-4bf2-4a63-a6fc-eff1b8f71c47)
 
-IoTeX is a decentralized network for the Internet of Trusted Things, powering DePIN (Decentralized Physical Infrastructure Networks).
-
+IoTeX provides a full stack of infrastructure modules designed for building Decentralized Physical Infrastructure Networks (DePIN).
 ## Quick Links
 
 
