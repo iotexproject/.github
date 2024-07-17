@@ -16,6 +16,8 @@ IoTeX provides a full stack of infrastructure modules designed for building Dece
 | **W3bstream**       | An offchain computing layer for DePIN verifiable data computation.             | [Repo](https://github.com/iotexproject/w3bstream) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/w3bstream-depin-verification)       |
 | **ioID**            | Provides identities for DePIN participants and devices.                      | [Repo](https://github.com/iotexproject/ioid) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioid-depin-identities)            |
 | **ioConnect**       | Enables firmware development for DePIN hardware.                             | [Repo](https://github.com/iotexproject/ioconnect) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioconnect-hardware-sdk)       |
+| **Marshall DAO**        | A DAO that allows IoTeX stakeholders to vote on funding allocations for DePIN projects growth and governance.                         | [Repo](https://github.com/iotexproject/marshall-dao) | [Docs](https://docs.iotex.io/participate/governance/the-marshall-dao)       |
+| **Modular Security Pool (MSP)** | A security module providing pooled security for DePIN infrastructure.   | [Repo](https://github.com/iotexproject/msp-contracts) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/msp-modular-security-pool) |
 
 
 ## Get Involved
