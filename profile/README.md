@@ -2,11 +2,8 @@
 ![IoTeX Github Banner](https://github.com/user-attachments/assets/6f8dbc8f-4bf2-4a63-a6fc-eff1b8f71c47)
 
 IoTeX provides a full stack of infrastructure modules designed for building Decentralized Physical Infrastructure Networks (DePIN).
-## Quick Links
 
-
-| [![Homepage](https://img.shields.io/badge/Homepage-iotex.io-green)](https://iotex.io) | [![Documentation](https://img.shields.io/badge/Documentation-docs.iotex.io-green)](https://docs.iotex.io) | [![Developers](https://img.shields.io/badge/Developers-developers.iotex.io-green)](https://developers.iotex.io) | [![Community](https://img.shields.io/badge/Community-iotex.io/devdiscord-green)](https://iotex.io/devdiscord) |
-|-|-|-|-|
+[![Homepage](https://img.shields.io/badge/Homepage-iotex.io-green)](https://iotex.io) ° [![Documentation](https://img.shields.io/badge/Documentation-docs.iotex.io-green)](https://docs.iotex.io) ° [![Developers](https://img.shields.io/badge/Developers-developers.iotex.io-green)](https://developers.iotex.io) ° [![Community](https://img.shields.io/badge/Community-iotex.io/devdiscord-green)](https://iotex.io/devdiscord) 
 
 ## IoTeX Modules
 
@@ -18,7 +15,6 @@ IoTeX provides a full stack of infrastructure modules designed for building Dece
 | **ioConnect**       | Abstracts firmware development for DePIN hardware and provides examples of device registration and DID-based encrypted communication using the ioID module.                             | [Repo](https://github.com/iotexproject/ioconnect) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioconnect-hardware-sdk)       |
 | **Marshall DAO**        | A DAO that allows IoTeX stakeholders to vote on funding allocations for DePIN projects growth and governance.                         | [Repo](https://github.com/iotexproject/marshall-dao) | [Docs](https://docs.iotex.io/participate/governance/the-marshall-dao)       |
 | **Modular Security Pool (MSP)** | A security module providing pooled security for DePIN infrastructure.   | [Repo](https://github.com/iotexproject/msp-contracts) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/msp-modular-security-pool) |
-
 
 ## Get Involved
 Join our [Developer Discord](https://iotex.io/devdiscord) to connect with the community, ask questions, and get support.
