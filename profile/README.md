@@ -12,7 +12,7 @@ IoTeX provides a full stack of infrastructure modules designed for building Dece
 
 | Module Name         | Description                                                                 | GitHub Repo                                | Documentation                                 |
 |---------------------|-----------------------------------------------------------------------------|-------------------------------------------|-----------------------------------------------|
-| **IoTeX L1 Blockchain** | A decentralized blockchain for the Internet of Trusted Things.              | [Repo](https://github.com/iotexproject/iotex-core) | [Docs](https://docs.iotex.io)                 |
+| **IoTeX L1 Blockchain** | An ultra-efficient EVM blockchain offering 1000 TPS with instant 1-block finality. Perfect for DeFi, DePIN tokenomics, Identities, and any trusted logic requiring Web3 composability        | [Repo](https://github.com/iotexproject/iotex-core) | [Docs](https://docs.iotex.io)                 |
 | **W3bstream**       | An offchain computing layer for DePIN verifiable data computation.             | [Repo](https://github.com/iotexproject/w3bstream) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/w3bstream-depin-verification)       |
 | **ioID**            | Provides identities for DePIN participants and devices.                      | [Repo](https://github.com/iotexproject/ioid) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioid-depin-identities)            |
 | **ioConnect**       | Enables firmware development for DePIN hardware.                             | [Repo](https://github.com/iotexproject/ioconnect) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioconnect-hardware-sdk)       |
