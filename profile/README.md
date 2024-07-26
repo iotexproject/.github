@@ -14,7 +14,7 @@ IoTeX provides a full stack of infrastructure modules designed for building Dece
 | **ioID**            | Provides identities for DePIN participants and devices, including on-chain and off-chain identity management and DID-based encrypted communication.                      | [Repo](https://github.com/iotexproject/ioID-contracts) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioid-depin-identities)            |
 | **ioConnect**       | Abstracts firmware development for DePIN hardware and provides examples of device registration and DID-based encrypted communication using the ioID module.                             | [Repo](https://github.com/iotexproject/ioconnect) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioconnect-hardware-sdk)       |
 | **Marshall DAO**        | A DAO that allows IoTeX stakeholders to vote on funding allocations for DePIN projects growth and governance.                         | [Repo](https://github.com/iotexproject/marshall-dao) | [Docs](https://docs.iotex.io/participate/governance/the-marshall-dao)       |
-| **Modular Security Pool (MSP)** | A security module providing pooled security for DePIN infrastructure.   | [Coming Soon](https://#) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/msp-modular-security-pool) |
+| **Modular Security Pool (MSP)** | A security module providing pooled security for DePIN infrastructure.   | Coming Soon | [Docs](https://docs.iotex.io/depin-infra-modules-dim/msp-modular-security-pool) |
 
 ## Get Involved
 Join our [Developer Discord](https://iotex.io/devdiscord) to connect with the community, ask questions, and get support.
