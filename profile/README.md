@@ -1,9 +1,9 @@
 # Welcome to the IoTeX Project
-![IoTeX Github Banner](https://github.com/user-attachments/assets/6f8dbc8f-4bf2-4a63-a6fc-eff1b8f71c47)
+[![IoTeX Github Banner](https://github.com/user-attachments/assets/6f8dbc8f-4bf2-4a63-a6fc-eff1b8f71c47)](https://github.com/iotexproject/files/blob/main/publications/IoTeX_2_0_Whitepaper_1.1_EN.pdf)
 
 IoTeX provides a full stack of infrastructure modules designed for building Decentralized Physical Infrastructure Networks (DePIN).
 
-[![Homepage](https://img.shields.io/badge/Homepage-iotex.io-green)](https://iotex.io) ° [![Documentation](https://img.shields.io/badge/Documentation-docs.iotex.io-green)](https://docs.iotex.io) ° [![Developers](https://img.shields.io/badge/Developers-developers.iotex.io-green)](https://developers.iotex.io) ° [![Community](https://img.shields.io/badge/Community-iotex.io/devdiscord-green)](https://iotex.io/devdiscord) 
+[![Homepage](https://img.shields.io/badge/Homepage-iotex.io-green)](https://iotex.io) ° [![Whitepaper](https://img.shields.io/badge/Whitepaper-PDF-red)](https://github.com/iotexproject/files/blob/main/publications/IoTeX_2_0_Whitepaper_1.1_EN.pdf) ° [![Documentation](https://img.shields.io/badge/Documentation-docs.iotex.io-blue)](https://docs.iotex.io) ° [![Developers](https://img.shields.io/badge/Developers-developers.iotex.io-purple)](https://developers.iotex.io) ° [![Community](https://img.shields.io/badge/Community-iotex.io/devdiscord-darkblue)](https://iotex.io/devdiscord) 
 
 ## IoTeX Modules
 
