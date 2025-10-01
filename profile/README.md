@@ -13,7 +13,7 @@ IoTeX is the blockchain platform for **Real World AI**. Since 2017, its foundati
 | **IoTeX L1 Blockchain** | An ultra efficient EVM blockchain offering 1000 TPS with instant one block finality. It is designed for DeFi, DePIN tokenomics, digital identities, and any trusted logic that benefits from Web3 composability. | [Repo](https://github.com/iotexproject/iotex-core) | [Docs](https://docs.iotex.io) |
 | **Quicksilver** | A framework that integrates the capabilities of Large Language Models (LLMs) with Decentralized Physical Infrastructure Networks (DePINs). It enables the creation of advanced AI agents that interact with real world data. | [Repo](https://github.com/iotexproject/quicksilver) | [Docs](https://github.com/iotexproject/quicksilver#quicksilver-sentient-ai-framework) |
 | **ioID** | A decentralized identity system for DePIN participants and devices. It supports both on chain and off chain identity management and enables secure communication using decentralized identifiers (DIDs). | [Repo](https://github.com/iotexproject/ioID-contracts) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioid-depin-identities) |
-| **ioConnect** | A hardware SDK that simplifies firmware development for DePIN devices. It includes examples of device registration and DID based encrypted communication through integration with the ioID module. | [Repo](https://github.com/iotexproject/ioconnect) | [Docs](https://docs.iotex.io/depin-infra-modules-dim/ioconnect-hardware-sdk) |
+
 
 ## Get Involved
 
